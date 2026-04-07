@@ -1,3 +1,12 @@
-# Calculadora-java
+# Calculadora em Java
 
-Primeiro projeto em Java - calculadora simples
+Projeto simples de calculadora desenvolvido em Java.
+
+## Funcionalidades
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+
+## Tecnologias
+- Java
