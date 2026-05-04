@@ -7,6 +7,8 @@ Projeto simples de calculadora desenvolvido em Java.
 - Subtração
 - Multiplicação
 - Divisão
+- Exponenciação
+
 
 ## Tecnologias
 - Java
